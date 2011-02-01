@@ -4,7 +4,6 @@ import it.oltsp.OnlineGraph;
 import it.oltsp.graph.SimpleOnlineGraph;
 
 import org.jgrapht.VertexFactory;
-import org.jgrapht.graph.ClassBasedVertexFactory;
 import org.jgrapht.graph.DefaultEdge;
 import org.junit.Test;
 
